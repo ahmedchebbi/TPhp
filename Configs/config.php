@@ -1,5 +1,5 @@
 <?php
 define('DBUSER','root');
    define('DBPWD','ahmed');
-   define('DBHOST','192.168.1.6');
+   define('DBHOST','127.0.2.1');
    define('DBNAME','training');
