@@ -1,3 +1,4 @@
+<html>
 <?php
 require '../Controllers/UserController.php';
 
@@ -6,3 +7,9 @@ echo $t;
 
 echo "bonjour";
  ?>
+<h1>
+  TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+</h1>
+
+</html>
+_
